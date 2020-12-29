@@ -24,7 +24,7 @@
      然后将列表遍历，
      将未排序的所有元素和有序序列进行比较后插入到合适位置。
      
-     '''python
+     '''Python
      def insertionSort(arr):
          for i in range(len(arr)):
              preIndex = i-1
